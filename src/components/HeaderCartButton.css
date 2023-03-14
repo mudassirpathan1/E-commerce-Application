@@ -1,0 +1,12 @@
+
+button {
+    column-gap: normal;
+    cursor: pointer;
+    margin-right: 15px;
+    border-radius: 5px;
+    padding: 5px 7px;
+    color: rgb(227, 222, 222);
+    background-color: rgb(220, 147, 38);
+    border: 1px solid rgb(91, 15, 15);
+}
+
